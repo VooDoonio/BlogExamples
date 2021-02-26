@@ -1,0 +1,6 @@
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsService\SimpleWindowsService\obj\Debug\SimpleWindowsService.csproj.CoreCompileInputs.cache
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsService\SimpleWindowsService\bin\Debug\SimpleWindowsService.exe.config
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsService\SimpleWindowsService\bin\Debug\SimpleWindowsService.exe
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsService\SimpleWindowsService\bin\Debug\SimpleWindowsService.pdb
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsService\SimpleWindowsService\obj\Debug\SimpleWindowsService.exe
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsService\SimpleWindowsService\obj\Debug\SimpleWindowsService.pdb

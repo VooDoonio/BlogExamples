@@ -1,0 +1,7 @@
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\bin\Debug\WindowsServiceHelper.exe.config
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\bin\Debug\WindowsServiceHelper.exe
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\bin\Debug\WindowsServiceHelper.pdb
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\obj\Debug\WindowsServiceHelper.csprojAssemblyReference.cache
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\obj\Debug\WindowsServiceHelper.csproj.CoreCompileInputs.cache
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\obj\Debug\WindowsServiceHelper.exe
+D:\___Workspace\___Blog\___BlogWorkspace\WindowsServiceHelper\WindowsServiceHelper\obj\Debug\WindowsServiceHelper.pdb
